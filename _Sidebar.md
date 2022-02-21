@@ -17,6 +17,7 @@
 **Custom Items and Custom Recipes**
 - [Custom Items](https://github.com/Tnology/TnologyMC/wiki/Custom-Items-and-Custom-Crafting-Recipes#custom-items)
 - [Custom Crafting Recipes](https://github.com/Tnology/TnologyMC/wiki/Custom-Items-and-Custom-Crafting-Recipes#custom-crafting-recipes)
+- [Custom Enchantments](https://github.com/Tnology/TnologyMC/wiki/Custom-Enchantments)
 
 ***
 **Land Claims and Claim Flags**
