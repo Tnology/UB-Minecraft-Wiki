@@ -23,3 +23,34 @@
 **[11]** No lag machines on TnologyMC. Go build one on a pay-to-win server instead.
 
 **[12]** Griefing is not allowed. This includes external griefing, such as griefing around someone's base.
+
+
+
+
+# Notes
+
+**(1)** You can and will still be punished if it was a sibling, friend, or someone else on your family account. Exceptions can be made if your account was hacked, but you must provide adequate proof in your appeal.
+
+**(2)** Buying in-game items for real-life money from other people in the server is highly discouraged. We may not handle scams regarding buying items for real-life currency. Additionally, even if we do, it's not likely we can get your money back.
+
+
+
+
+# Punishment Information
+
+
+**Punishment Types:** Warning, Mute, Tempban (Temporary Ban), Permban, IP-Ban
+
+Here at TnologyMC, we train our staff to not be strict. This means they likely won't tempban you if you are spamming 10 messages in 5 seconds on your first offense, but they'll still put their foot down and tell you to stop before they punish you (if you proceed to keep spamming).
+
+While warning are not permanently active on your account, they _are_ active for 90 days.
+
+`Warning Times are for Times Listed.`
+**5 Active Warnings** - 3-Day Tempban
+**10 Active Warnings** - 7-Day Tempban
+**15 Active Warnings** - 14-Day Tempban
+**20 Active Warnings** - 30-Day Tempban**
+**25 Active Warnings - 90-Day Tempban**
+
+
+**Note:** Only the owner, T_nology, is allowed to pardon IP-bans.
