@@ -29,3 +29,12 @@ Another method of earning money is via the Auction House. The Auction House is a
 
 
 Additionally, TnologyMC has ranks Ranks provide in-game benefits to your gameplay experience. **_However, these are NOT and will NEVER BE PURCHASABLE FOR REAL-LIFE MONEY._** Why? The reason is simple: At TnologyMC, we strive to provide a non-P2W experience. Pay-to-Win (PTW/P2W) means when you can spend real-life money in return for a (usually competitive) advantage in-game. We will never be pay-to-win, and if we ever get a store with purchasable ranks, they will be purely cosmetic. You can get ranks via the in-game TnologyMC shop, which you can access via `/shop`. They are purchased with in-game money.
+
+
+
+
+# Contributor Rank
+
+Contributor Rank is a rank that is nearly impossible to get within TnologyMC. Even contributing largely isn't likely to get you this rank. Instead, you need to contribute so hugely to TnologyMC, that TnologyMC likely wouldn't even have a chance to survive without it, and keeping TnologyMC the way it is because of it. Even then, it's still hard to get this rank.
+
+The benefits of [Contributor] Rank are not publicly listed, as we don't want people to try to get the rank just for the benefits.
