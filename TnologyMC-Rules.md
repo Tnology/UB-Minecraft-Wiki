@@ -24,6 +24,8 @@
 
 **[12]** Griefing is not allowed. This includes external griefing, such as griefing around someone's base.
 
+**[13]** Player Warp traps and portal trapping are prohibited.
+
 
 
 
