@@ -27,5 +27,5 @@ TnologyMC has custom items you can get. Many of these custom items come from cra
 # Custom Crafting Recipes
 
 
-Coming Soon™
-By the way, type `/craftingrecipes` in game to see the custom crafting recipes.
+You can use `/craftingrecipes` to view the crafting recipes in-game.
+
