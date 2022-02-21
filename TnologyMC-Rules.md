@@ -48,11 +48,17 @@ Here at TnologyMC, we train our staff to not be strict. This means they likely w
 While warning are not permanently active on your account, they _are_ active for 90 days.
 
 `Warning Times are for Times Listed.`
+
 **5 Active Warnings** - 3-Day Tempban
+
 **10 Active Warnings** - 7-Day Tempban
+
 **15 Active Warnings** - 14-Day Tempban
-**20 Active Warnings** - 30-Day Tempban**
-**25 Active Warnings - 90-Day Tempban**
+
+**20 Active Warnings** - 30-Day Tempban
+
+**25 Active Warnings** - 90-Day Tempban
+
 
 
 **Note:** Only the owner, T_nology, is allowed to pardon IP-bans.
