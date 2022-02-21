@@ -21,8 +21,11 @@
 
 ***
 **Land Claims and Claim Flags**
-- [Land Claims](https://github.com/Tnology/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#land-claims)
-- [Land Claim Flags](https://github.com/Tnology/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#land-claim-flags)
+- [Creating a Land Claim](https://github.com/TnologyMC/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#creating-a-land-claim)
+- [Land Claim Permissions](https://github.com/TnologyMC/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#land-claim-permissions)
+- [Subdivided Claims](https://github.com/TnologyMC/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#subdivided-claims)
+- [Locking Containers and Doors](https://github.com/TnologyMC/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#locking-containers-and-doors)
+- [Land Claim Flags](https://github.com/TnologyMC/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#land-claim-flags)
 
 ***
 **Player Warps**
