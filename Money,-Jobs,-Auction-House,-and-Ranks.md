@@ -35,6 +35,6 @@ Additionally, TnologyMC has ranks Ranks provide in-game benefits to your gamepla
 
 # Contributor Rank
 
-Contributor Rank is a rank that is nearly impossible to get within TnologyMC. Even contributing largely isn't likely to get you this rank. Instead, you need to contribute so hugely to TnologyMC, that TnologyMC likely wouldn't even have a chance to survive without it, and keeping TnologyMC the way it is because of it. Even then, it's still hard to get this rank.
+Contributor Rank is a rank that is nearly impossible to get in TnologyMC. Even contributing largely isn't likely to get you this rank. Instead, you need to contribute so hugely to TnologyMC, that TnologyMC likely wouldn't even have a chance to survive without it, and keeping TnologyMC the way it is because of it. Even then, it's still hard to get this rank.
 
 The benefits of [Contributor] Rank are not publicly listed, as we don't want people to try to get the rank just for the benefits.
