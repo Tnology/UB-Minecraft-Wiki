@@ -28,11 +28,12 @@
 - [Land Claim Flags](https://github.com/TnologyMC/TnologyMC/wiki/Land-Claims-and-Land-Claim-Flags#land-claim-flags)
 
 ***
-**Player Warps**
-- [Player Warps](https://github.com/Tnology/TnologyMC/wiki/Player-Warps)
-
-***
 **Custom Redstone**
 - [Wireless Redstone - Basic Link](https://github.com/Tnology/TnologyMC/wiki/Custom-Redstone#wireless-redstone---basic-link)
 - [Wireless Redstone - Sign Modes](https://github.com/Tnology/TnologyMC/wiki/Custom-Redstone#wireless-redstone---sign-modes)
 - [Custom Redstone - Custom Redstone Clock Sign](https://github.com/Tnology/TnologyMC/wiki/Custom-Redstone#custom-redstone-clock-sign)
+
+
+***
+**Other**
+- [Player Warps](https://github.com/Tnology/TnologyMC/wiki/Player-Warps)
