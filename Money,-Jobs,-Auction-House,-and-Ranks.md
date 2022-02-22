@@ -28,7 +28,83 @@ Another method of earning money is via the Auction House. The Auction House is a
 # Ranks
 
 
-Additionally, TnologyMC has ranks Ranks provide in-game benefits to your gameplay experience. **_However, these are NOT and will NEVER BE PURCHASABLE FOR REAL-LIFE MONEY._** Why? The reason is simple: At TnologyMC, we strive to provide a non-P2W experience. Pay-to-Win (PTW/P2W) means when you can spend real-life money in return for a (usually competitive) advantage in-game. We will never be pay-to-win, and if we ever get a store with purchasable ranks, they will be purely cosmetic. You can get ranks via the in-game TnologyMC shop, which you can access via `/shop`. They are purchased with in-game money.
+Additionally, TnologyMC has ranks purchasable Ranks provide in-game benefits to your gameplay experience. **_However, these are NOT and will NEVER BE PURCHASABLE FOR REAL-LIFE MONEY._** Why? The reason is simple: At TnologyMC, we strive to provide a non-P2W experience. Pay-to-Win (PTW/P2W) means when you can spend real-life money in return for a (usually competitive) advantage in-game. We will never be pay-to-win, and if we ever get a store with purchasable ranks, they will be purely cosmetic. You can get ranks via the in-game TnologyMC shop, which you can access via `/shop`. They are purchased with in-game money.
+
+Purchasable Ranks + Benefits:
+
+***
+
+**[Iron] Rank**:
+
+- 10 Items in `/ah` (Default is 5)
+
+- Kit Iron
+
+- 2 Homes
+
+- 5 Vaults
+
+- Use Color + Formatting Codes in Anvils on Items
+
+- Price: **$25000**
+
+***
+
+**[Gold] Rank:**
+
+- Everything from Iron Rank
+
+- 20 Items in `/ah`
+
+- Kit Gold
+
+- Chat Colors
+
+- Chat Formatting
+
+- 5 Homes
+
+- Access to `/ec` (Ender Chest)
+
+- Particle Effects
+
+- 10 Vaults
+
+- Price: **$50000**
+
+***
+
+**[Diamond] Rank:**
+
+- Everything From Gold Rank
+
+- 50 Items in `/ah`
+
+- Kit Diamond
+
+- 10 Homes
+
+- 25 Vaults
+
+- **Price: $100000**
+
+***
+
+**[Obsidian] Rank:**
+
+- Everything from Diamond Rank
+
+- 100 Items in `/ah`
+
+- 20 Homes
+
+- Access to `/craft`
+
+- 50 Vaults
+
+- Price: **$1000000**
+
+***
 
 
 
@@ -38,3 +114,10 @@ Additionally, TnologyMC has ranks Ranks provide in-game benefits to your gamepla
 Contributor Rank is a rank that is nearly impossible to get in TnologyMC. Even contributing largely isn't likely to get you this rank. Instead, you need to contribute so hugely to TnologyMC, that TnologyMC likely wouldn't even have a chance to survive without it, and keeping TnologyMC the way it is because of it. Even then, it's still hard to get this rank.
 
 The benefits of [Contributor] Rank are not publicly listed, as we don't want people to try to get the rank just for the benefits.
+
+
+
+
+# Player Vaults
+
+Upon getting one of the four purchasable in-game ranks, you will get Player Vaults! Player Vaults are a way to easily store things, without needing a physical block (e.g. a chest). They can be accessed anywhere by typing `/pv <number>`. The amount of player vaults you have is limited to the number of player vaults your rank allows.
