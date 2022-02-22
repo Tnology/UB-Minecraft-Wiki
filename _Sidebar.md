@@ -12,6 +12,7 @@
 - [Auction House](https://github.com/Tnology/TnologyMC/wiki/Money,-Jobs,-Auction-House,-and-Ranks#auction-house)
 - [Ranks](https://github.com/Tnology/TnologyMC/wiki/Money,-Jobs,-Auction-House,-and-Ranks#ranks)
 - [Contributor Rank](https://github.com/Tnology/TnologyMC/wiki/Money,-Jobs,-Auction-House,-and-Ranks#contributor-rank)
+- [Player Vaults](https://github.com/TnologyMC/TnologyMC/wiki/Money,-Jobs,-Auction-House,-and-Ranks#player-vaults)
 
 ***
 **Custom Items and Custom Recipes**
