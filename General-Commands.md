@@ -14,8 +14,3 @@ Coming Soon™
 
 ***
 
-**Player Particles:**
-
-Coming Soon™
-
-(`/pp`)
