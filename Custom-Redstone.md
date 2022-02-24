@@ -48,7 +48,28 @@ That's it! Now, you are ready to use the wireless redstone.
 # Wireless Redstone - Sign Modes
 
 
-Coming Soon™
+**Note:** You can also watch an example of a Basic Wireless Redstone Link on YouTube: https://www.youtube.com/watch?v=NcDYOfOhGzU
+
+<br>
+
+
+**Step 1:** Refer to Steps 1 through 3, including Step 3, in the [Basic Link](https://github.com/TnologyMC/TnologyMC/wiki/Custom-Redstone#wireless-redstone---basic-link) Wiki page.
+
+<br>
+
+**Step 2:** Type your sign mode command by typing `/rs signmode <signmode>`. Here are the sign modes:
+
+NORMAL - `/rs signmode NORMAL` makes the wireless redstone behave as normal.
+
+INVERTED - `/rs signmode INVERTED` makes the wireless redstone behave the opposite way it does by default. When the wireless redstone is not activated by the repeater, the wireless redstone is powered, and vice versa.
+
+FLIP_FLOP - `/rs signmode FLIP_FLOP` makes the redstone behave similar to normal, but different. When you activate the repeater, the wireless redstone will be activated. However, when you deactivate the repeater, it will stay activated. Then, activating the repeater again causes the wireless redstone to not be activated, and disabling the repeater again makes the wireless redstone not be activated. This process repeats.
+
+<br>
+
+**Step 3:** Proceed with Steps 4 and 5 from the [Basic Link](https://github.com/TnologyMC/TnologyMC/wiki/Custom-Redstone#wireless-redstone---basic-link) Wiki page.
+
+Now, you have successfully created a wireless redstone link with a sign mode. Congratulations!
 
 
 
