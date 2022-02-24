@@ -69,6 +69,8 @@ FLIP_FLOP - `/rs signmode FLIP_FLOP` makes the redstone behave similar to normal
 
 **Step 3:** Proceed with Steps 4 and 5 from the [Basic Link](https://github.com/TnologyMC/TnologyMC/wiki/Custom-Redstone#wireless-redstone---basic-link) Wiki page.
 
+<br>
+
 Now, you have successfully created a wireless redstone link with a sign mode. Congratulations!
 
 
