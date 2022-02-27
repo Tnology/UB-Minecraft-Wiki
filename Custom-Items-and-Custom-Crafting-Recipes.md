@@ -17,7 +17,9 @@ TnologyMC has custom items you can get. Many of these custom items come from cra
 
 - **Snow (Armor Piece/Tool/Sword)** - Powerful tools/armor that was crafted with an item with a Snowite Crystal and an item from Kit Pumpkin. The Snowite Crystal would be crafted via 4 Snowite Fragments and a Tnoloite Fragment. Snowite was crafted from 4 snow blocks and a nether star. However, Snowite is no longer craftable, as it only was during the Christmas Event. Snowite and Snowite Crystals were given out during the TnologyMC 2021 Advent, as part of the Christmas Event.
 
-- **Diamond Potion** - A potion that can be crafted with 8 diamond blocks and a water bottle. Is super overpowered.
+- **Diamond Potion** - A potion that can be crafted with 8 diamond blocks and a water bottle. It is very overpowered.
+
+- **Flight Duration 100 Firework Rocket** - A firework with Flight Duration 100. It lasts the player long time in-air and allows them to go super far.
 
 - **Builder's Wand** - A special item that can make building way easier. Let's say you are building a huge cube of dirt blocks. You will need dirt in your inventory, and you will want to go up to the side of the dirt cube that you want to expand. Assuming that you have enough dirt blocks, it will make a highlight around the area. If you right click, then it will put the blocks on that side automatically. Additionally, you can sneak and left click while holding the builder's wand to access the storage, so it doesn't have to be in your inventory. _However, you will want to be careful with the Builder's Wand, as there is no way to undo an action with the Builder's Wand._
 
