@@ -39,3 +39,4 @@
 **Other**
 - [Player Warps](https://github.com/Tnology/TnologyMC/wiki/Player-Warps)
 - [Player Particles](https://github.com/TnologyMC/TnologyMC/wiki/Player-Particles#player-particles)
+- [Voting](https://github.com/TnologyMC/TnologyMC/wiki/Voting#voting)
