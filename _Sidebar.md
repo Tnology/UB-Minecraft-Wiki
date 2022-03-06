@@ -40,3 +40,7 @@
 - [Player Warps](https://github.com/Tnology/TnologyMC/wiki/Player-Warps)
 - [Player Particles](https://github.com/TnologyMC/TnologyMC/wiki/Player-Particles#player-particles)
 - [Voting](https://github.com/TnologyMC/TnologyMC/wiki/Voting#voting)
+- [Applying for Moderator](https://github.com/TnologyMC/TnologyMC/wiki/Applying-for-Moderator#applying-for-moderator)
+- [Reporting a Bug](https://github.com/TnologyMC/TnologyMC/wiki/Reporting-a-Bug-or-Security-Vulnerability#reporting-a-bug)
+- [Reporting a Security Vulnerability](https://github.com/TnologyMC/TnologyMC/wiki/Reporting-a-Bug-or-Security-Vulnerability#reporting-a-security-vulnerability)
+- [Appealing a Ban](https://github.com/TnologyMC/TnologyMC/wiki/Appealing-a-Ban#appealing-a-ban)
