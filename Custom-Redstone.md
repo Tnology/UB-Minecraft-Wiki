@@ -78,5 +78,35 @@ Now, you have successfully created a wireless redstone link with a sign mode. Co
 
 # Custom Redstone Clock Sign
 
+**Note:** You can also watch an example of a Custom Redstone Clock Sign on YouTube: https://www.youtube.com/watch?v=IDxQHb5KBIA
 
-Coming Soon™
+<br>
+
+**Step 1:** Place an empty sign.
+
+![image](https://user-images.githubusercontent.com/67435040/156939555-5903f7c9-1899-43d0-916a-f4dd155bc960.png)
+
+<br>
+
+**Step 2:** Place a repeater facing towards the empty sign.
+
+![image](https://user-images.githubusercontent.com/67435040/156939569-dc536159-11cc-4926-979b-d9f6f5c9ca55.png)
+
+<br>
+
+**Step 3:** While facing the sign, type `/clock <ticks>`, with `<ticks>` being the amount of ticks you want for the clock to be on. For example, if you do `/clock 20`, it will be a 1-second clock, as there are 20 ticks in a second in Minecraft. If you receive the message, "You must look at a sign!" even while looking at the sign, try moving your character and looking at the sign at a different angle.
+
+![image](https://user-images.githubusercontent.com/67435040/156939642-922f4932-7c29-46c6-8df7-d23fd8127ffa.png)
+
+<br>
+
+**Step 4:** Place a lever behind the oak sign.
+
+![image](https://user-images.githubusercontent.com/67435040/156939656-750074f0-d7a2-4465-82fc-0326f8528ac9.png)
+
+<br>
+
+**Step 5:** Power the repeater facing the oak sign to activate the clock for the lever behind the oak sign.
+
+![image](https://user-images.githubusercontent.com/67435040/156939715-58e04c0f-d46f-44cc-8948-c6423d36d4ab.png)
+
