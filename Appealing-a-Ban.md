@@ -1,5 +1,3 @@
 # Appealing a Ban
 
-Coming Soon™
-
-https://tnologymc.com/appeal
+To appeal, go to https://tnologymc.com/appeal.
