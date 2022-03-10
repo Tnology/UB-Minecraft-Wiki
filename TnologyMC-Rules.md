@@ -26,6 +26,8 @@
 
 **[13]** Player Warp traps and portal trapping are prohibited.
 
+**[14]** Any automation that can give you an unfair advantage (including autoclickers) is not allowed. Additionally, any Anti-AFK mods/software, or any mods/software that will make your player not be detected as AFK, are prohibited.
+
 
 
 
