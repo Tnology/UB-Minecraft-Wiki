@@ -1,3 +1,0 @@
-# Voting
-
-In TnologyMC, you can vote for the server. This supports the server by making the server appear on Minecraft server listings. For each website you vote on, you get 20 Bonus Land Claim Blocks, a Vote Crate Key, and a Vote Point. You can view how many Vote Points you have by typing `/votepoints`. These Vote Points are spendable via the Vote Shop, which can be accessed via `/voteshop`. To view the websites you can vote on, go to https://tnologymc.com/vote.
